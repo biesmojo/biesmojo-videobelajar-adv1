@@ -80,7 +80,7 @@ const CourseList = () => {
         <div>
           <h2 className="text-center text-2xl font-semibold mb-2 text-[#222325] font-poppins">
             {" "}
-            Manajemen Video Belajar
+            Admin Video Belajar
           </h2>
           <p className="text-center font-[500] mb-2 text-[#333333]/68 text-[14px] font-dm-sans">
             {" "}
